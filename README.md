@@ -1,6 +1,6 @@
 # PostgreSQL API
 
-## Description  
+## 📄 Description  
 This project provides a Flask-based API for internal PostgreSQL data access. It establishes connections to a PostgreSQL database and executes SQL queries to retrieve and structure.
 This API is intended exclusively for internal use within a secure infrastructure. It is deployed on a remote Linux server and used as part of Airflow-managed data pipelines, streamlining interactions between ETL workflows and PostgreSQL databases eliminating the need to import PostgreSQL interaction modules in each pipeline.
 
