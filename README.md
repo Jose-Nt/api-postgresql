@@ -56,5 +56,8 @@ pip install -r requirements.txt
 python src/main.py
 ```
 
-## 👤 Author  
+## 👤 Authors
 - José Neto Souza (Jose-Nt)
+
+## License
+Free use permitted — attribution required.
