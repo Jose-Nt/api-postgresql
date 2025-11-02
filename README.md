@@ -57,4 +57,4 @@ python src/main.py
 ```
 
 ## 👤 Author  
-- José Neto Lima (Jose-Nt)
+- José Neto Souza (Jose-Nt)
